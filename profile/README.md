@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../assets/EBSLab-LogoKit-13.png">
     <img src="../assets/EBSLab-LogoKit-11.png" alt="EBSLab logo" width="480">
