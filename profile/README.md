@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/EBSLab-LogoKit-13.png">
-    <img src="./assets/EBSLab-LogoKit-11.pngg" alt="EBSLab logo" width="480">
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/EBSLab-LogoKit-13.png">
+    <img src="../assets/EBSLab-LogoKit-11.png" alt="EBSLab logo" width="480">
   </picture>
 </p>
 
